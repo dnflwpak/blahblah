@@ -93,6 +93,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <img src="https://elasticbeanstalk-ap-northeast-2-860763440889.s3.ap-northeast-2.amazonaws.com/image/aaaa.jpg">
             </div>
         </div>
     </body>
